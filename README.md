@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nisma 👋
 
-<!--
-**Nisma-sreen/Nisma-sreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | AI & ML Graduate | Wattpad Writer
 
-Here are some ideas to get you started:
+I'm a recent BSc Artificial Intelligence & Machine Learning graduate
+interested in Data Analytics, Business Intelligence and turning data
+into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Data & Analytics
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas & NumPy
+- Data Cleaning
+- Data Visualization
+
+### 🛠️ Currently Learning
+
+- Advanced SQL
+- Power BI
+- Data Analysis
+- Business Analytics
+
+### 📖 Beyond Data
+
+When I'm not working with datasets, I write fictional stories
+and build characters and worlds on Wattpad.
+
+### 🌱 My Goal
+
+To grow as a Data Analyst while continuing to explore my passion
+for storytelling and creative writing.
+
